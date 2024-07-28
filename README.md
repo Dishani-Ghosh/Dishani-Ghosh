@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dishani Ghosh</h1>
-<h3 align="center">A passionate ML Engineer from India(Kolkata)❤</h3>
+<h3 align="center">A passionate Data Analyser from India(Kolkata)❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishani-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="dishani-ghosh" /> </p>
 
