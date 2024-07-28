@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/dishani-ghosh-2aaa28237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dishani-ghosh-2aaa28237" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dishani-ghosh-2aaa28237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dishani-ghosh-2aaa28237" height="30" width="40" /></a>
 <a href="https://fb.com/dishanighosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dishanighosh" height="30" width="40" /></a>
 <a href="https://instagram.com/dishani_ghosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishani_ghosh_" height="30" width="40" /></a>
 </p>
